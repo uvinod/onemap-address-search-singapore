@@ -1,6 +1,6 @@
 # onemap-address-search-singapore
 
-Get Singapore address by postal code using OneMap API
+Helper library to get Singapore address by postal code using OneMap API (https://docs.onemap.sg/)
 
 ## Installation
 
