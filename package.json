@@ -1,0 +1,15 @@
+{
+  "name": "onemap-address-search",
+  "version": "1.0.0",
+  "description": "Search Singapore addresses by postal code using OneMAP API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vinod Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
