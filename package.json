@@ -1,6 +1,6 @@
 {
   "name": "onemap-address-search-singapore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search Singapore addresses by postal code using OneMAP API",
   "main": "index.js",
   "scripts": {
