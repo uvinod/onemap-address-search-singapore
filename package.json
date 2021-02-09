@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "onemap",
+    "address lookup singapore"    
+  ],
+  "homepage": "https://github.com/uvinod/onemap-address-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvinod/onemap-address-search.git"
+  },
   "author": "Vinod Kumar",
   "license": "MIT",
   "dependencies": {
