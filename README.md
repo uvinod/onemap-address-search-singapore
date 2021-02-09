@@ -1,4 +1,4 @@
-# onemap-address-search
+# onemap-address-search-singapore
 
 Get Singapore address by postal code using OneMap API
 
@@ -6,10 +6,10 @@ Get Singapore address by postal code using OneMap API
 
 ```js
 # using npm
-npm install onemap-address-search
+npm install onemap-address-search-singapore
 
 # using yarn
-yarn add onemap-address-search
+yarn add onemap-address-search-singapore
 ```
 
 ## Usage
