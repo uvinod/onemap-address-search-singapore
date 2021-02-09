@@ -10,10 +10,10 @@
     "onemap",
     "address lookup singapore"
   ],
-  "homepage": "https://github.com/uvinod/onemap-address-search",
+  "homepage": "https://github.com/uvinod/onemap-address-search-singapore",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uvinod/onemap-address-search.git"
+    "url": "git+https://github.com/uvinod/onemap-address-search-singapore.git"
   },
   "author": "Vinod Kumar",
   "license": "MIT",
