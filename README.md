@@ -16,10 +16,10 @@ yarn add onemap-address-search-singapore
 
 ```js
 # using require
-const { getAddress } = require('onemap-address-search');
+const { getAddress } = require('onemap-address-search-singapore');
 
 # using import
-import { getAddress } from 'onemap-address-search';
+import { getAddress } from 'onemap-address-search-singapore';
 ```
 
 ## Example
